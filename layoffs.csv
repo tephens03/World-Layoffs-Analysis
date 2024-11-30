@@ -569,7 +569,7 @@ Perimeter 81,Tel Aviv,Security,20,0.08,12/6/2022,Series C,Israel,165
 Koinly,London,Crypto,16,0.14,12/6/2022,Unknown,United Kingdom,NULL
 Bridgit,Waterloo,Construction,13,0.13,12/6/2022,Series B,Canada,36
 Filevine,Salt Lake City,Legal,NULL,NULL,12/6/2022,Series D,United States,226
-Moove,Lagos,Transportation,NULL,NULL,12/6/2022,Unknown,Nigeria,630
+moove,Lagos,Transportation,NULL,NULL,12/6/2022,Unknown,Nigeria,630
 Nextiva,Phoenix,Other,NULL,0.17,12/6/2022,Private Equity,United States,200
 OneStudyTeam,Boston,Healthcare,NULL,0.25,12/6/2022,Series D,United States,479
 Zuora,SF Bay Area,Finance,NULL,0.11,12/6/2022,Post-IPO,United States,647
